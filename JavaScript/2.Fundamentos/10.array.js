@@ -7,3 +7,5 @@ valores[4] = 10
 valores[7] = 10
 console.log(valores)
 console.log(valores.length)
+
+console.log('oi')
